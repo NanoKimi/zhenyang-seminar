@@ -14,6 +14,6 @@ seminar/
 └─ css/
     └─ common.css
 ```
-
+我是高手
 # 备注
 本仓库是书籍《和Wakaba酱一起学Git》练习用仓库。
